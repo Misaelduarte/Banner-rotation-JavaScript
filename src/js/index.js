@@ -1,7 +1,7 @@
 
-    // Aplicando código para evento de rotação das imagens do nosso banner
+    // Aplicando código para evento de rotação das imagens do banner
 
-    // variáveis do projeto js
+    // variáveis do projeto 
     let time = 2000,
         currentIndexImage = 0,
         images = document.querySelectorAll('.container img'),
