@@ -1,2 +1,1 @@
-# Projeto - Banner com rotação de imagens.
-
+# BANNER COM ROTAÇÃO DE IMAGENS
