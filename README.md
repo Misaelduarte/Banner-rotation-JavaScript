@@ -2,7 +2,7 @@
 
 Sistema simples, aplicando conceitos de JavaScript, na criação de um banner rotativo com imagens.
 
-![img-main](https://phpdozero.com/wp-content/uploads/2019/07/practice-javascript-and-learn-functions-400x277.png)
+![img-main](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlrYECMML4yzAEp1f02dDSIrQJeHQ9RAL6cQ&usqp=CAU)
 
 ```js
 console.log('Criando banner-rotativo');
